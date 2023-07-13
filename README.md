@@ -5,3 +5,6 @@
 **For deploy with streamlit, you can find on the following link bellow:**
 _https://github.com/budisumandra/water_potability_prediction_
 
+**Dataset taken from:**
+_https://www.kaggle.com/datasets/adityakadiwal/water-potability_
+
